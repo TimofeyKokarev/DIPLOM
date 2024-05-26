@@ -4,21 +4,21 @@
 </p>
 
 
-<!--Пользовательская документация-->
-## Документация
+<!-- Пользовательская документация-->
+## :book: Документация
 Пользовательскую документацию можно получить по [этой ссылке](---).
 
 <!--описание коммитов-->
-## Описание коммитов
+## :memo: Описание коммитов
 | Название         | Описание                                                |
 |------------------|---------------------------------------------------------|
 | edit README.md   | Редактирование файла, добавление структуры проекта      |
 
 
-### :fire: Статистика :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TimofeyKokarev&theme=dark&background=000000)](https://git.io/streak-stats)
+## :fire: Статистика
+[![GitHub Streak](https://streak-stats.demolab.com?user=Timofey_Kokarev&locale=ru&layout=compact&theme=vision-friendly-dark&card_width=500&card_height=200)](https://git.io/streak-stats)
 
-[![Используемые языки](https://github-readme-stats.vercel.app/api/top-langs?username=TimofeyKokarev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=TimofeyKokarev&locale=ru&layout=compact&theme=vision-friendly-dark&card_width=500&card_height=200)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### :hammer_and_wrench: Используемые программы для разработки и проектирования:
